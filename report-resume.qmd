@@ -1,0 +1,19 @@
+---
+title: "Robert C. Cline, Sr., CPL"
+format:
+  typst:
+    font-paths:
+      - fonts
+    keep-typ: true
+execute:
+  echo: false
+---
+
+
+```{=typst}
+
+
+
+#include "resume.typ"
+
+```
