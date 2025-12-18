@@ -91,7 +91,7 @@ Field Landman and project roles across Texas, Louisiana, and the Rockies.
 #text(weight: "bold")[GIS & Spatial:] QGIS, sf, GeoJSON, Spatial Analysis, Mapping
 
 #v(4pt)
-#text(weight: "bold")[Languages:] English (native), Spanish (B2), German (B2)
+#text(weight: "bold")[Languages:] English (native), Spanish, German (Speaking, Writing B2)
 
 #v(12pt)
 #line(length: 100%, stroke: 0.6pt)
