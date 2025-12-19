@@ -119,3 +119,4 @@ Field Landman and project roles across Texas, Louisiana, and the Rockies.
 - Houston Association of Petroleum Landmen — Former IT Chair
 - Texas Land Title Association — Member & Title Plant Examiner, 1975–1976
 - Psi Chi — Psychology Honor Society
+- Aquinas Honor Society — University of St. Thomas Honor Society
